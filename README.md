@@ -1,2 +1,2 @@
 # IOT-House
-IOT house based on micro controller
+IOT house implemented on micro controller.the repository also contains project report . 
